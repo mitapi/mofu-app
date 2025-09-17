@@ -1,0 +1,13 @@
+/vendor/bundle
+/node_modules
+/.yarn-cache
+/.bundle
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/storage/*
+!/storage/.keep
+.env
+.env.*
+!.env.example
